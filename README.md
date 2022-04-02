@@ -1,5 +1,7 @@
-Icons Plugin for DokuWiki
+Icons Plugin for DokuWiki (Fork with Fork Awesome)
 =========================
+
+Install with this link : https://github.com/mrtpcet/dokuwiki-plugin-icons-fork-Awesome-/zipball/master
 
 Embed icons to your DokuWiki
 
